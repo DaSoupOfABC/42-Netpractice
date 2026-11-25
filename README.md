@@ -35,7 +35,7 @@ To run the training interface, you need:
 
 No manual compilation step is required for the base training interface. If your repository includes a `Makefile` or another build system, compile the project first before running it.
 
-## Submission Detaisl
+## Submission Details
 10 exported .json config files at the root of the directory 
 
 ### Installation
