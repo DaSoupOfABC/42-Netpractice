@@ -8,6 +8,8 @@ NetPractice is a 42 networking project focused on understanding and configuring 
 
 The goal of this project is to discover and practice fundamental networking concepts in a guided environment. Each level presents a small network topology that must be configured so that the required machines can communicate.
 
+## Resources
+
 Through the different levels, the project covers:
 
 - IPv4/TCP/IP addressing;
@@ -32,6 +34,9 @@ To run the training interface, you need:
 - any local dependencies required by `run.sh`, if your version of the project uses a local web server.
 
 No manual compilation step is required for the base training interface. If your repository includes a `Makefile` or another build system, compile the project first before running it.
+
+## Submission Detaisl
+10 exported .json config files at the root of the directory 
 
 ### Installation
 
